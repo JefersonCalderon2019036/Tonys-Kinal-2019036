@@ -1,0 +1,137 @@
+* {
+    display: 0px;
+    margin: 0px;
+}
+
+body {
+    background: url(https://images7.alphacoders.com/817/thumb-1920-817344.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.contenedorgeneral {
+    width: 100%;
+    right: 100%;
+}
+
+.bienvenida {
+    margin-left: 5px;
+    right: 30px;
+}
+
+.logokinal {
+    margin-left: 65px;
+}
+
+.h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}
+
+.contenedor-menu {
+    right: 30px;
+}
+
+.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.lista_menu_principal {
+    float: left;
+}
+
+a {
+    color: white;
+    background-color: rgba(14, 65, 122, 0.849);
+    text-decoration: none;
+    display: block;
+    padding: 10px 65px;
+}
+
+.encabezado {
+    width: 100%;
+    right: 8%;
+    display: flex;
+    width: 100%;
+    right: 100%;
+    background-color: rgba(14, 64, 122, 0.425);
+}
+
+.contenedor_informacion {
+    margin-left: 11%;
+    width: 82%;
+    right: 80%;
+    background-color: whitesmoke;
+}
+
+.contenedor_imagenproducto {
+    margin-top: 10%;
+    margin-left: 15%;
+    background-color: whitesmoke;
+}
+
+.contenedor_espacio_enblancouno {
+    background-color: whitesmoke;
+    color: whitesmoke;
+    margin-right: 300px;
+}
+
+.informacion_productos {
+    display: flex;
+}
+
+.detaller_producto {
+    margin-top: 12%;
+    margin-left: 15%;
+}
+
+h2 {
+    margin-left: 20%;
+}
+
+.parrago_uno {
+    margin-top: 5%;
+    margin-right: 10%;
+}
+
+.contenedor_imagenEmpleados {
+    margin-top: 10%;
+    margin-right: 10%;
+    background-color: whitesmoke;
+}
+
+.informacion_Empleados {
+    display: flex;
+}
+
+.parrago_dos {
+    margin-top: 5%;
+    margin-right: 5%;
+}
+
+.informacion_ubicación {
+    display: flex;
+}
+
+.redes_sociales {
+    display: flex;
+}
+
+.redes_sociales {
+    margin-top: 200px;
+    margin-left: 30%;
+}
+
+img h1 {
+    margin-top: 200px;
+}
+
+.facebook .istagram .twitter {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.twitter {
+    margin-top: 15px;
+}

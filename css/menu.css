@@ -1,0 +1,193 @@
+* {
+    display: 0px;
+    margin: 0px;
+}
+
+body {
+    background: url(https://images7.alphacoders.com/817/thumb-1920-817344.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.contenedor_general {
+    width: 100%;
+    right: 100%;
+}
+
+.encabezado {
+    width: 100%;
+    right: 90px;
+    display: flex;
+    background-color: rgba(14, 64, 122, 0.425);
+}
+
+.logokinal {
+    margin-left: 5%;
+}
+
+.menuprincipal {
+    color: white;
+    background-color: rgba(14, 65, 122, 0.849);
+    text-decoration: none;
+    display: block;
+    padding: 10px 65px;
+}
+
+.lista_menu_principal {
+    float: left;
+}
+
+.lista_menu_principal:hover ul {
+    display: block;
+}
+
+.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.contenedor_menu_Principal {
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.Iniciar_seccion {
+    margin-left: 5%;
+}
+
+.carrito_compras {
+    margin-left: 3%;
+}
+
+.sub-menu {
+    color: white;
+    background-color: rgba(14, 65, 122, 0.849);
+    text-decoration: none;
+    display: block;
+    padding: 10px 65px;
+}
+
+.menu-dos {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: none;
+}
+
+.contenido {
+    background-color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+}
+
+.espacionblanco {
+    color: white;
+    right: 15%;
+    width: 100%;
+}
+
+.detalles {
+    display: flex;
+}
+
+.informacion {
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+
+.img_comida {
+    width: 200px;
+    height: 200px;
+    border-radius: 150px;
+    text-align: center;
+}
+
+.nombre_producto {
+    text-emphasis: middle;
+    text-align: center;
+}
+
+.arroz-con-pollo {
+    margin-left: 10%;
+    margin-top: 50px;
+    margin-right: 5%;
+}
+
+.PALOMITAS-CON-MANTEQUILLA {
+    margin-left: 5%;
+    margin-top: 50px;
+}
+
+.MASALA-DOSA {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 50px;
+}
+
+.espacio {
+    color: white;
+    background-color: white;
+    right: 10%;
+    width: 100%;
+}
+
+.Desayuno_Inglaterra {
+    margin-left: 10%;
+    margin-top: 50px;
+    margin-right: 5%;
+}
+
+.Desayuno_galileo {
+    margin-left: 5%;
+    margin-top: 50px;
+}
+
+.Desayuno_Islandia {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 50px;
+}
+
+.img_palomitas {
+    margin-left: 45px;
+    width: 200px;
+    height: 200px;
+    border-radius: 150px;
+    text-align: center;
+}
+
+.almuerso_tacos_mexicanos {
+    margin-left: 10%;
+    margin-top: 50px;
+    margin-right: 5%;
+}
+
+.almuerso_pizza_napolitana {
+    margin-left: 5%;
+    margin-top: 50px;
+}
+
+.almuerso_lasaña {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 50px;
+}
+
+.Bebidas_naturales {
+    margin-left: 10%;
+    margin-top: 50px;
+    margin-right: 5%;
+}
+
+.Bebidas_gaseosas {
+    margin-left: 5%;
+    margin-top: 50px;
+}
+
+.smoothie {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 50px;
+}
